@@ -1,6 +1,6 @@
-package com.example.literalura;
+package com.example.challenge.ricardovs;
 
-import com.example.literalura.service.BookService;
+import com.example.challenge.ricardovs.service.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
